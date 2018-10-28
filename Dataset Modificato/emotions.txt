@@ -1,0 +1,9 @@
+defaultdict(None,
+            {'_anger_': defaultdict(None, {'pos': 7544, 'neg': 13619}),
+             '_anticipation_': defaultdict(None, {'pos': 7288, 'neg': 41281}),
+             '_disgust_': defaultdict(None, {'pos': 6409, 'neg': 11391}),
+             '_fear_': defaultdict(None, {'pos': 2995, 'neg': 15545}),
+             '_joy_': defaultdict(None, {'pos': 45241, 'neg': 770}),
+             '_sadness_': defaultdict(None, {'pos': 2855, 'neg': 32432}),
+             '_surprise_': defaultdict(None, {'pos': 17882, 'neg': 14768}),
+             '_trust_': defaultdict(None, {'pos': 26250, 'neg': 860})})
